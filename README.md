@@ -1,4 +1,13 @@
-## Hi there 👋
+## skip, repeat
+<img width="1920" height="459" alt="1000001685" src="https://github.com/user-attachments/assets/50d46eb7-2764-4175-8a9d-22a3d5687a15" />
+
+$$\color{white}{\text{secret agent}}$$
+
+<img width="2362" height="3496" alt="1000001687" src="https://github.com/user-attachments/assets/7a5a189c-0d44-4660-88c2-e0674d4e0493" />
+
+$$\color{black}{\text{he / him }}$$
+
+<img width="1920" height="459" alt="1000001685" src="https://github.com/user-attachments/assets/7a8966be-3dce-4a68-9b70-1143ffebac72" />
 
 <!--
 **S-E-C-R-E-T-A-G-E-N-T/S-E-C-R-E-T-A-G-E-N-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
